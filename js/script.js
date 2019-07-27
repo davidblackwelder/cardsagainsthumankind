@@ -6,7 +6,15 @@ const starterBlackCardsDeck = [
   "War! What is it good for?",
   "I drink to forget [blank]",
   "How did I lose my virginity?",
-  "What is George W. Bush thinking about right now?"
+  "What is George W. Bush thinking about right now?",
+  "[Blank]. Betcha can't have just one!",
+  "Why am I sticky?",
+  "What will always get you laid?",
+  "Next from J.K. Rowing: Harry Potter and the Chamber of [blank].",
+  "What's that smell?",
+  "Here is the church. Here is the steeple. Open the doors and there is [Blank].",
+  "What gives me uncontrollable gas?",
+  "Introducing X-treme Baseball! It's like baseball, but with [Blank]!"
 ];
 
 const starterWhiteCardsDeck = [
@@ -29,7 +37,25 @@ const starterWhiteCardsDeck = [
   "Nazis.",
   "Sean Penn.",
   "Genuine human connection.",
-  "Classist undertones."
+  "Classist undertones.",
+  "Wiping her butt.",
+  "Pictures of boobs.",
+  "Emma Watson",
+  "White people.",
+  "Sniffing glue.",
+  "A sad handjob.",
+  "BATMAN!!!",
+  "Women in yogurt commercials.",
+  "Running out of semen.",
+  "Hot cheese.",
+  "Cards Against Humanity.",
+  "Laying an egg.",
+  "Queefing",
+  "An erection that last longer than four hours.",
+  "An Oedipus complex",
+  "Stephen Hawking talking dirty.",
+  "Giving birth to the Antichrist.",
+  "Catapults."
 ];
 
 const currentBlackCard =
