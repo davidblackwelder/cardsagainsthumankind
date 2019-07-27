@@ -3,7 +3,10 @@ const starterBlackCardsDeck = [
   "What's a girl's best friend?",
   "While the United States raced the Soviet Union to the moon, the Mexican governement funneled millions of pesos into research on [blank]",
   "What gets better with age?",
-  "War! What is it good for?"
+  "War! What is it good for?",
+  "I drink to forget [blank]",
+  "How did I lose my virginity?",
+  "What is George W. Bush thinking about right now?"
 ];
 
 const starterWhiteCardsDeck = [
@@ -16,7 +19,17 @@ const starterWhiteCardsDeck = [
   "An M. Night Shyamalan plot twist.",
   "The female orgasm",
   "Teaching a robot to love.",
-  "Rush Limbaugh's soft, shitty body."
+  "Rush Limbaugh's soft, shitty body.",
+  "Justin Bieber",
+  "Pixelated bukkake.",
+  "Vigilante justice.",
+  "Destroying the evidence.",
+  "Leprosy.",
+  "Anal beads.",
+  "Nazis.",
+  "Sean Penn.",
+  "Genuine human connection.",
+  "Classist undertones."
 ];
 
 const currentBlackCard =
