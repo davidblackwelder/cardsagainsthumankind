@@ -2,6 +2,10 @@ body {
   background-color: orange;
 }
 
+button {
+  background-color: aquamarine;
+}
+
 #blackCard {
   background-color: black;
   color: white;
