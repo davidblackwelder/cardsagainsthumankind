@@ -4,6 +4,13 @@ body {
 
 button {
   background-color: aquamarine;
+  margin: auto;
+  padding: 10px;
+  border-radius: 8%;
+  -webkit-border-radius: 8%;
+  -moz-border-radius: 8%;
+  -ms-border-radius: 8%;
+  -o-border-radius: 8%;
 }
 
 #blackCard {
