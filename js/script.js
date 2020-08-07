@@ -108,5 +108,5 @@ const currentWhiteCard =
     Math.floor(Math.random() * starterWhiteCardsDeck.length)
   ];
 
-document.getElementById("blackCard").innerHTML = currentBlackCard;
-document.getElementById("whiteCard").innerHTML = currentWhiteCard;
+document.getElementById("black-card-text").innerHTML = currentBlackCard;
+document.getElementById("white-card-text").innerHTML = currentWhiteCard;

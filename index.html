@@ -9,28 +9,33 @@
     <link rel="stylesheet" href="/css/style.css" />
   </head>
   <body>
-    <div>
-      <p id="blackCard"></p>
-    </div>
+    <div class="flex-container">
+      <div id="black-card" class="card">
+        <div id="black-card-text">
+          <p></p>
+        </div>
+      </div>
+      <div id="white-card" class="card">
+        <div id="white-card-text">
+          <p></p>
+        </div>
+      </div>
 
-    <div>
-      <p id="whiteCard"></p>
-    </div>
+      <button value="Refresh Page" onClick="window.location.reload();">
+        Give me more!
+      </button>
 
-    <button value="Refresh Page" onClick="window.location.reload();">
-      Give me more!
-    </button>
-
-    <div id="credit">
-      <p class="other-text">
-        Writing for the cards provided by the Cards Against Humanity team under
-        the
-        <a
-          href="https://creativecommons.org/licenses/by-nc-sa/4.0/"
-          target="_blank"
-          >Creative Commons BY-NC-SA 4.0 license</a
-        >
-      </p>
+      <div id="credit">
+        <p class="other-text">
+          Writing for the cards provided by the Cards Against Humanity team
+          under the
+          <a
+            href="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+            target="_blank"
+            >Creative Commons BY-NC-SA 4.0 license</a
+          >
+        </p>
+      </div>
     </div>
 
     <script src="js/script.js"></script>
