@@ -98,15 +98,34 @@ const starterWhiteCardsDeck = [
   "Emotions.",
 ];
 
-const currentBlackCard =
-  starterBlackCardsDeck[
+const getBlackCardText = function () {
+  return starterBlackCardsDeck[
     Math.floor(Math.random() * starterBlackCardsDeck.length)
   ];
+};
 
-const currentWhiteCard =
-  starterWhiteCardsDeck[
+const getWhiteCardText = function () {
+  return starterWhiteCardsDeck[
     Math.floor(Math.random() * starterWhiteCardsDeck.length)
   ];
+};
 
-document.getElementById("black-card-text").innerHTML = currentBlackCard;
-document.getElementById("white-card-text").innerHTML = currentWhiteCard;
+const renderCards = function (blackCard, whiteCard) {
+  document.querySelector("#black-card-text").innerHTML = "";
+  document.querySelector("#white-card-text").innerHTML = "";
+
+  const blackCardText = document.createElement("p");
+  blackCardText.textContent = blackCard;
+  document.querySelector("#black-card-text").appendChild(blackCardText);
+
+  const whiteCardText = document.createElement("p");
+  whiteCardText.textContent = whiteCard;
+  document.querySelector("#white-card-text").appendChild(whiteCardText);
+};
+
+renderCards(getBlackCardText(), getWhiteCardText());
+
+document.querySelector("button").addEventListener("click", function (e) {
+  e.preventDefault();
+  renderCards(getBlackCardText(), getWhiteCardText());
+});
