@@ -26,7 +26,7 @@ const starterBlackCardsDeck = [
   "What's there a ton of in heaven?",
   "In L.A. County Jail, word is you can trade 200 cigarettes for [BLANK].",
   "I'm sorry, Professor, but I couldn't complete my homework because of [BLANK].",
-  "This is the way the world ends. This is the way the world ends. Now with a bang but with [BLANK].",
+  "This is the way the world ends. This is the way the world ends. Not with a bang but with [BLANK].",
   "After the earthquake, Sean Penn brought [BLANK] to the people of Haiti.",
   "I get by with a little help from [BLANK].",
   "When I am President of the United States, I will create the department of [BLANK].",
