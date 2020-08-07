@@ -57,15 +57,30 @@ body {
   line-height: 1.7rem;
 }
 
-button {
+.btn {
+  width: 30%;
   background-color: #febd29;
+  border: none;
   margin: auto;
   padding: 10px;
-  border-radius: 8%;
-  -webkit-border-radius: 8%;
-  -moz-border-radius: 8%;
-  -ms-border-radius: 8%;
-  -o-border-radius: 8%;
+  border-radius: 2%;
+  -webkit-border-radius: 2%;
+  -moz-border-radius: 2%;
+  -ms-border-radius: 2%;
+  -o-border-radius: 2%;
+  cursor: pointer;
+}
+
+.btn:hover,
+.btn:focus {
+  border: none;
+  outline: none;
+}
+
+.btn:active {
+  background-color: #febe29cb;
+  box-shadow: 0 2px #1d425d;
+  transform: translateY(4px);
 }
 
 #credit {
