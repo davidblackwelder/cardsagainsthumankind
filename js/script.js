@@ -1,10 +1,10 @@
 const starterBlackCardsDeck = [
-  "It's a pity that kids these days are all getting invloved with _____",
+  "It's a pity that kids these days are all getting invloved with _____.",
   "What's a girl's best friend?",
-  "While the United States raced the Soviet Union to the moon, the Mexican governement funneled millions of pesos into research on _____",
+  "While the United States raced the Soviet Union to the moon, the Mexican governement funneled millions of pesos into research on _____.",
   "What gets better with age?",
   "War! What is it good for?",
-  "I drink to forget _____",
+  "I drink to forget _____.",
   "How did I lose my virginity?",
   "What is George W. Bush thinking about right now?",
   "_____. Betcha can't have just one!",
@@ -27,7 +27,7 @@ const starterBlackCardsDeck = [
   "In L.A. County Jail, word is you can trade 200 cigarettes for _____.",
   "I'm sorry, Professor, but I couldn't complete my homework because of _____.",
   "This is the way the world ends. This is the way the world ends. Not with a bang but with _____.",
-  "After the earthquake, Sean Penn brought _____ to the people of Haiti.",
+  "After the earthquake, Sean Penn brought _____. to the people of Haiti.",
   "I get by with a little help from _____.",
   "When I am President of the United States, I will create the department of _____.",
 ];
