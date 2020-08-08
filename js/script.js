@@ -264,7 +264,7 @@ const starterWhiteCardsDeck = [
   "A homoerotic volleyball montage.",
   "An asymmetric boob job.",
   "Mr. Clean right behind you.",
-  "Shaquille O'Neal's acting carerr.",
+  "Shaquille O'Neal's acting carrer.",
   "Opposable thumbs.",
   "Being a dick to children.",
   "Homeless people.",
