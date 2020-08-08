@@ -19,12 +19,12 @@ body {
   justify-content: center;
 }
 
-#black-card {
+#prompt-card {
   background: black;
   width: 50%;
 }
 
-#white-card {
+#response-card {
   background-color: white;
   width: 50%;
 }
@@ -45,13 +45,13 @@ body {
   -o-border-radius: 5px;
 }
 
-#black-card-text {
+#prompt-card-text {
   color: white;
   font-size: 1.8rem;
   line-height: 1.7rem;
 }
 
-#white-card-text {
+#response-card-text {
   color: black;
   font-size: 1.8rem;
   line-height: 1.7rem;

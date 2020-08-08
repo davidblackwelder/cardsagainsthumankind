@@ -1,4 +1,4 @@
-const starterBlackCardsDeck = [
+const promptCards = [
   "It's a pity that kids these days are all getting invloved with ____________.",
   "What's a girl's best friend?",
   "While the United States raced the Soviet Union to the moon, the Mexican governement funneled millions of pesos into research on ____________.",
@@ -77,7 +77,7 @@ const starterBlackCardsDeck = [
   "The new Chevy Tahoe. With the power and space to take ____________ everywhere you go.",
 ];
 
-const starterWhiteCardsDeck = [
+const responseCards = [
   "Helplessly giggling at the mention of Hutus and Tutsis.",
   "An M16 assualt rifle.",
   "Bingeing and purging.",
@@ -539,36 +539,32 @@ const starterWhiteCardsDeck = [
   "A bag of magic beans.",
 ];
 
-const getBlackCardText = function () {
-  return starterBlackCardsDeck[
-    Math.floor(Math.random() * starterBlackCardsDeck.length)
-  ];
+const getPromptCardText = function () {
+  return promptCards[Math.floor(Math.random() * promptCards.length)];
 };
 
-const getWhiteCardText = function () {
-  return starterWhiteCardsDeck[
-    Math.floor(Math.random() * starterWhiteCardsDeck.length)
-  ];
+const getResponseCardText = function () {
+  return responseCards[Math.floor(Math.random() * responseCards.length)];
 };
 
-const renderCards = function (blackCard, whiteCard) {
-  document.querySelector("#black-card-text").innerHTML = "";
-  document.querySelector("#white-card-text").innerHTML = "";
+const renderCards = function (promptCard, responseCard) {
+  document.querySelector("#prompt-card-text").innerHTML = "";
+  document.querySelector("#response-card-text").innerHTML = "";
 
-  const blackCardText = document.createElement("p");
-  blackCardText.textContent = blackCard;
-  document.querySelector("#black-card-text").appendChild(blackCardText);
+  const promptCardText = document.createElement("p");
+  promptCardText.textContent = promptCard;
+  document.querySelector("#prompt-card-text").appendChild(promptCardText);
 
-  const whiteCardText = document.createElement("p");
-  whiteCardText.textContent = whiteCard;
-  document.querySelector("#white-card-text").appendChild(whiteCardText);
+  const responseCardText = document.createElement("p");
+  responseCardText.textContent = responseCard;
+  document.querySelector("#response-card-text").appendChild(responseCardText);
 };
 
-renderCards(getBlackCardText(), getWhiteCardText());
+renderCards(getPromptCardText(), getResponseCardText());
 
 document.querySelector("button").addEventListener("click", function (e) {
   e.preventDefault();
-  renderCards(getBlackCardText(), getWhiteCardText());
+  renderCards(getPromptCardText(), getResponseCardText());
 });
 
 $("#my-form").submit(function (e) {
