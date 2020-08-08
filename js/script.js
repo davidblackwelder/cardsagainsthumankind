@@ -524,6 +524,19 @@ const starterWhiteCardsDeck = [
   "Being marginalized.",
   "Jobs.",
   "The World of Warcraft.",
+  "Bitches.",
+  "Riding off into the sunset.",
+  "My collection of high-tech sex toys.",
+  "Fear itself.",
+  "Penis breath.",
+  "A gentle caress of the inner thigh.",
+  "Doin' it in the butt.",
+  "Poor people.",
+  "White-man scalps.",
+  "The Jews.",
+  "The heart of a child.",
+  "Smallpox blankets.",
+  "A bag of magic beans.",
 ];
 
 const getBlackCardText = function () {
