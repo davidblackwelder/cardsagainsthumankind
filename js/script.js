@@ -59,6 +59,22 @@ const starterBlackCardsDeck = [
   "What will I bring back in time to convince people that I am a powerful wizard?",
   "Why do I hurt all over?",
   "A romantic candlelit dinner would be incomplete without ____________.",
+  "What's my secret power?",
+  "How am I maintaining my relationship status?",
+  "Alternative medicine is now embracing the curative powers of ____________.",
+  "What helps Obama unwind?",
+  "Why can't I sleep at night?",
+  "TSA guidelines now prohibit ____________ on airplanes.",
+  "What's my anti-drug?",
+  "What did the US airdrop to the children of Afghanistan?",
+  "In 1,000 years, when paper money is a distant memory, how will we pay for goods and services?",
+  "What am I giving up for Lent?",
+  "I do not know with what weapons World War III will be fought, but World World IV will be fought with ____________.",
+  "What's the most emo?",
+  "What are my parents hiding from me?",
+  "White people like ____________.",
+  "Dear Abby, I'm having some trouble with ____________ and would like your advice.",
+  "The new Chevy Tahoe. With the power and space to take ____________ everywhere you go.",
 ];
 
 const starterWhiteCardsDeck = [
