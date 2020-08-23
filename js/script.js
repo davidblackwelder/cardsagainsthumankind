@@ -761,6 +761,23 @@ const responseCards = [
 	"One thousand Slim Jims.",
 	"Having $57 in the bank.",
 	"Ominous background music.",
+	"Flying robots that kill people.",
+	"Screaming like a maniac.",
+	"Some douche with an acoustic guitar.",
+	"Spending lots of money.",
+	"Putting an entire peanut butter and jelly sandwich into the VCR.",
+	// Blue Deck
+	"A buttload of candy.",
+	"The male gaze.",
+	"Seeing my village burned and my family slaughtered before my eyes.",
+	"Slowly easing down onto a cucumber.",
+	"All these decorative pillows.",
+	// Green Deck
+	"Rock-hard tits and a huge vagina.",
+	"Assassinating the president.",
+	"A duffel bag full of lizards.",
+	"Libertarians.",
+	"Awesome pictures of planets and stuff.",
 ];
 
 const getPromptCardText = function () {
