@@ -781,6 +781,11 @@ const responseCards = [
 	"Just the tip.",
 	"Jeff Goldblum.",
 	"A sad fat dragon with no friends.",
+	"Walking in on Dad peeing into Mom's mouth.",
+	"Having sex on top of a pizza.",
+	"An ass disaster.",
+	"All my friends dying.",
+	"Scrotum tickling.",
 	// Blue Deck
 	"A buttload of candy.",
 	"The male gaze.",
@@ -802,6 +807,11 @@ const responseCards = [
 	"Not believing in giraffes.",
 	"Having been dead for a while.",
 	"A manhole.",
+	"The safe word.",
+	"Peeing into a girl's butt to make a baby.",
+	"Being a terrible mother.",
+	"Deez nuts.",
+	"Lots and lots of abortions.",
 	// Green Deck
 	"Rock-hard tits and a huge vagina.",
 	"Assassinating the president.",
@@ -823,6 +833,11 @@ const responseCards = [
 	"A medium horchata.",
 	"Getting trapped in a conversation about Ayn Rand.",
 	"Antidepressants.",
+	"Watching you die.",
+	"Our baby.",
+	"Pooping in a leotard and hoping no one notices.",
+	"One of those 'blow jobs' I've been hearing so much about.",
+	"Sucking each other's penises for hours on end.",
 ];
 
 const getPromptCardText = function () {
