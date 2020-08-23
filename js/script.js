@@ -776,6 +776,11 @@ const responseCards = [
 	"All of this blood.",
 	"Whining like a little bitch.",
 	"Loki, the trickster god.",
+	"Racial profiling.",
+	"Some really fucked-up shit.",
+	"Just the tip.",
+	"Jeff Goldblum.",
+	"A sad fat dragon with no friends.",
 	// Blue Deck
 	"A buttload of candy.",
 	"The male gaze.",
@@ -792,6 +797,11 @@ const responseCards = [
 	"A pizza guy who fucked up.",
 	"Three consecutive seconds of happiness.",
 	"Neil Diamond's Greatest Hits.",
+	"Blackula.",
+	"Throwing stones at a man until he dies.",
+	"Not believing in giraffes.",
+	"Having been dead for a while.",
+	"A manhole.",
 	// Green Deck
 	"Rock-hard tits and a huge vagina.",
 	"Assassinating the president.",
@@ -808,6 +818,11 @@ const responseCards = [
 	"Turning 32.",
 	"How great my ass looks in these jeans.",
 	"Showering praise upon the Sultan's hideous daughters.",
+	"10,000 shrieking teenage girls.",
+	"A creepy child singing a nursery rhyme.",
+	"A medium horchata.",
+	"Getting trapped in a conversation about Ayn Rand.",
+	"Antidepressants.",
 ];
 
 const getPromptCardText = function () {
