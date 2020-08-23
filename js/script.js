@@ -214,7 +214,7 @@ const promptCards = [
 	"Ooo, daddy like ____________.",
 	"Congratulations! You have been selected for our summer internship program. While we are unable to offer a salary, we can offer you ____________.",
 	"Best you go back where you came from, now. We don't take too kindly to ____________ in these parts.",
-	"I nthe 1950s, psychologists prescribed ____________ as a cure for homosexuality.",
+	"In the 1950s, psychologists prescribed ____________ as a cure for homosexuality.",
 	"Summer lovin', had me a blast. ____________, happened so fast.",
 	"As reparations for slavery, all African Americans will receive ____________.",
 	"LSD + ____________ = really bad time.",
