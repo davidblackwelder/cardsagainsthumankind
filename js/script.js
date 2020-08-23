@@ -353,7 +353,6 @@ const responseCards = [
 	"Natalie Portman.",
 	"A live studio audience.",
 	"Breaking out into song and dance.",
-	"YOU MUST CONSTRUCT ADDITIONAL PYLONS.",
 	"Michael Jackson.",
 	"Pooping back and forth. Forever.",
 	"Mouth herpes.",
