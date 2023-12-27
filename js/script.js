@@ -1313,7 +1313,20 @@ const green_deck_responseCards = [
   "Some real spicy shrimps.",
   "The Rwandan Genocide.",
   "The graceful path of an autumn leaf as it falls to its earthern cradle.",
-  "Opening your mouth to talk and a big penis flops out."
+  "Opening your mouth to talk and a big penis flops out.",
+  "Scissoring, if that's a thing.",
+  "My dog dying.",
+  "That bitch, Stacy.",
+  "Bad emotions I don't want.",
+  "Jason, the teen mayor.",
+  "An incurable homosexual.",
+  "Doing a somersault and barfing.",
+  "A cheerfulness that belies a deep-seated self-loathing.",
+  "A cold and indifferent universe.",
+  "How sad it will be when Morgan Freeman dies.",
+  "Quinoa.",
+  "Moon people.",
+  "A long business meeting with no obvious purpose."
 ];
 
 // The Bigger, Blacker Box Responses
