@@ -1031,7 +1031,7 @@ const blue_deck_responseCards = [
   "September 11th, 2001.",
   "The all-new Nissan Pathfinder with 0.9% APR financing!",
   "Ejaculating inside another man's wife.",
-  "The secret formula for ultimate femail satisfaction.",
+  "The secret formula for ultimate female satisfaction.",
   "A one-way ticket to Gary, Indiana.",
   "Blowjobs for everyone.",
   "Stupid.",
